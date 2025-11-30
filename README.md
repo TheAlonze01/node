@@ -54,6 +54,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built on Optimism's [
 - Storage: (2 \* [current chain size](https://base.org/stats) + [snapshot size](https://basechaindata.vercel.app) + 20% buffer) (to accommodate future growth)
 - Docker and Docker Compose
 
+  For more detailed guidance on sizing and tuning your setup over time, see the Node Performance documentation at https://docs.base.org/base-chain/node-operators/performance-tuning.
+
 ### Production Hardware Specifications
 
 The following are the hardware specifications we use in production:
